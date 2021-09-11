@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have an _undergraduate_ degree in **Electrical Engineering** and a _Master's_ degree in **Economics**. I work in Finance, as a risk quant but ***at heart, I am an engineer***. I can code in `Python`, `C++`, `R` and `Matlab`.
